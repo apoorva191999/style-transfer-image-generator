@@ -1,0 +1,23 @@
+# AI Style Transfer with Image Generation 
+
+This project combines a base image with AI-generated styles using an API, giving you **three style options** to choose from before producing the final image.
+
+##  Features
+- Upload your own base image (or use a URL).
+- Enter a style prompt for the AI.
+- View the top 3 generated style images.
+- Choose your favorite and get the final processed image.
+- Try as many prompts as you like.
+
+## How It Works
+1. You give the program a base image link or file path.
+2. Enter a prompt describing the style you want.
+3. The API generates **3 possible styles**.
+4. Pick your favorite or try another prompt.
+5. The script applies your chosen style to the base image.
+
+## Installation
+```bash
+git clone https://github.com/YOUR_USERNAME/style-transfer-image-generator.git
+cd style-transfer-image-generator
+pip install -r requirements.txt
