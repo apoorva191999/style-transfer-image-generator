@@ -21,3 +21,6 @@ This project combines a base image with AI-generated styles using an API, giving
 git clone https://github.com/YOUR_USERNAME/style-transfer-image-generator.git
 cd style-transfer-image-generator
 pip install -r requirements.txt
+
+# To look at the Art collection being referenced in code to understand on what prompts can be used
+https://www.artic.edu/collection
